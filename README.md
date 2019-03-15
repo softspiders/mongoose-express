@@ -22,6 +22,8 @@ yarn
 
 ## Prepare connection string
 
+Replace *YOUR_MONGODB_URI* for your own *MongoDb* connection string
+
 ```javascript
 const uri = 'YOUR_MONGODB_URI';
 ```
