@@ -4,13 +4,10 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct ancestors
+## Direct feature ancestors
 
 [mongoose](https://github.com/softspider/mongoose)
-
-## Direct descendants
-
-Yet absent
+[express](https://github.com/softspider/express)
 
 ---
 
