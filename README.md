@@ -1,5 +1,12 @@
 # Minimalistic *mongoose* example
 
+
+## Feature tags
+
+- express
+- mongoose
+- template
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
