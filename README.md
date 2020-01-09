@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Minimalistic *mongoose* example
 
 
@@ -11,7 +13,7 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature ancestors
+## Direct ancestors
 
 * [mongoose](https://github.com/softspider/mongoose)
 * [express](https://github.com/softspider/express)
