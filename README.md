@@ -15,8 +15,8 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-* [mongoose](https://github.com/softspider/mongoose)
-* [express](https://github.com/softspider/express)
+* [mongoose](https://github.com/softspiders/mongoose)
+* [express](https://github.com/softspiders/express)
 
 ---
 
