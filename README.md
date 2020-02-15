@@ -7,6 +7,7 @@
 
 - express
 - mongoose
+- starter
 - template
 
 ---
