@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Minimalistic *mongoose* example
 
@@ -9,14 +9,18 @@ SOFTSPIDERS
 - mongoose
 - template
 
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/)
+---
 
 ## Direct ancestors
 
 * [mongoose](https://github.com/softspiders/mongoose)
 * [express](https://github.com/softspiders/express)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ---
 
